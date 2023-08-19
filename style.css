@@ -1,0 +1,119 @@
+.encabezado{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+nav{
+    position:absolute;
+    top: 110px;
+    right: 0;
+    
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+.imagen2{
+    margin-top: -600px;
+    height: 500px;
+   
+}
+.titulos-principales{
+    text-align: center;
+    margin-left: 600px;
+}
+.titulo-principal{
+    margin-top: -400px;
+    color: white;
+    font-size: 70px;
+}
+.titulo-principal strong{
+    font-weight: bold;
+}
+.titulo2{
+    color: white;
+    font-size: 25px;
+}
+/*main{
+    background-color: red;
+    width: 1920px;
+}*/
+.servicios{
+        width: 940px;
+        margin: 0 auto;
+        padding: 50px;
+        
+}
+.titulo-servicios{
+    text-align: center;
+    margin-top: 200px;
+    
+}
+.titulo-servicios h1{
+    font-weight: bold;
+    font-size: 40px;
+   
+}
+
+.servicios li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: center;
+    margin: 1.5% 1.5% 1.5%;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 1px solid orangered;
+    border-radius: 10px;
+    transition: 400ms;
+}
+.servicios li:hover{
+    opacity: 0.3;
+}
+.servicios h2{
+    font-weight: bold;
+    font-size: 20px;
+}
+.servicios h2:hover{
+    font-size: 30px;
+}
+
+.imagen-servicio1{
+   margin:  15px;
+}
+.imagen-servicio2{
+    margin-left: -220px;
+    width: 250px;
+    
+}
+.imagen-alojamiento{    
+    margin-top: 91px;
+    margin-bottom: -173px;
+}
+.Alojamiento{
+    margin-bottom: 38px;
+}
+
+footer{
+    background-color: black;
+    height: 10%;
+    height: 100%;
+    text-align: center;
+    color: white;
+    
+}
+
+footer li{
+    font-size: 20px;
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+
